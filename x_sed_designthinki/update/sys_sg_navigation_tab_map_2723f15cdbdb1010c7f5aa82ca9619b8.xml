@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map">
+    <sys_sg_navigation_tab_map action="INSERT_OR_UPDATE">
+        <navigation display_value="Mobile Agent">679d4f0653d033002d96ddeeff7b1279</navigation>
+        <navigation_tab display_value="DesignThinking">1b23f15cdbdb1010c7f5aa82ca961985</navigation_tab>
+        <order>160</order>
+        <sys_class_name>sys_sg_navigation_tab_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-12 23:35:23</sys_created_on>
+        <sys_id>2723f15cdbdb1010c7f5aa82ca9619b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DesignThinking" source="x_sed_designthinki">3ed1b5d4dbdb1010c7f5aa82ca9619cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DesignThinking">3ed1b5d4dbdb1010c7f5aa82ca9619cc</sys_scope>
+        <sys_update_name>sys_sg_navigation_tab_map_2723f15cdbdb1010c7f5aa82ca9619b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-12 23:35:23</sys_updated_on>
+    </sys_sg_navigation_tab_map>
+</record_update>

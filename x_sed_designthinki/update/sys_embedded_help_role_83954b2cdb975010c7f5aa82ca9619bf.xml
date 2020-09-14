@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_sed_designthinki.phase_user" name="x_sed_designthinki.phase_user">cb954b2cdb975010c7f5aa82ca9619ba</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-14 00:14:00</sys_created_on>
+        <sys_id>83954b2cdb975010c7f5aa82ca9619bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cb954b2cdb975010c7f5aa82ca9619ba</sys_name>
+        <sys_package display_value="DesignThinking" source="x_sed_designthinki">3ed1b5d4dbdb1010c7f5aa82ca9619cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DesignThinking">3ed1b5d4dbdb1010c7f5aa82ca9619cc</sys_scope>
+        <sys_update_name>sys_embedded_help_role_83954b2cdb975010c7f5aa82ca9619bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-14 00:14:00</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

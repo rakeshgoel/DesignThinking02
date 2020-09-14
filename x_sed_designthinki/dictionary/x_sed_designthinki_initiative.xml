@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="x_sed_designthinki_element" label="Initiative" max_length="40" name="x_sed_designthinki_initiative" sizeclass="0" type="collection"/>
+</database>

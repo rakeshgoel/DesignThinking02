@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="x_sed_designthinki_element" label="Phase" max_length="40" name="x_sed_designthinki_phase" sizeclass="0" type="collection">
+        <element label="Initiative" mandatory="true" max_length="32" name="initiative" reference="x_sed_designthinki_initiative" type="reference"/>
+        <element choice="3" label="Phase type" mandatory="true" max_length="60" name="phase_type" type="choice">
+            <choice/>
+        </element>
+        <element label="stage" mandatory="true" max_length="32" name="stage" reference="x_sed_designthinki_stage" type="reference"/>
+    </element>
+</database>

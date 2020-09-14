@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Edit Button (Task)">5f23f15cdbdb1010c7f5aa82ca9619af</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Edit</label>
+        <location>top</location>
+        <name>Edit (Task)</name>
+        <order/>
+        <parent>9b23f15cdbdb1010c7f5aa82ca961989</parent>
+        <parent_table>sys_sg_form_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-12 23:35:23</sys_created_on>
+        <sys_id>ab23f15cdbdb1010c7f5aa82ca9619b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit (Task)</sys_name>
+        <sys_package display_value="DesignThinking" source="x_sed_designthinki">3ed1b5d4dbdb1010c7f5aa82ca9619cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DesignThinking">3ed1b5d4dbdb1010c7f5aa82ca9619cc</sys_scope>
+        <sys_update_name>sys_sg_button_instance_ab23f15cdbdb1010c7f5aa82ca9619b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-12 23:35:23</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=ab23f15cdbdb1010c7f5aa82ca9619b5"/>
+</record_update>

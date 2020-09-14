@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="product" label="Product" language="en" table="x_sed_designthinki_element">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>product</element>
+            <help/>
+            <hint/>
+            <label>Product</label>
+            <language>en</language>
+            <name>x_sed_designthinki_element</name>
+            <plural>Products</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-13 18:08:04</sys_created_on>
+            <sys_id>ead1b160db175010c7f5aa82ca9619ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Product</sys_name>
+            <sys_package display_value="DesignThinking" source="x_sed_designthinki">3ed1b5d4dbdb1010c7f5aa82ca9619cc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DesignThinking">3ed1b5d4dbdb1010c7f5aa82ca9619cc</sys_scope>
+            <sys_update_name>sys_documentation_x_sed_designthinki_element_product_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-13 18:08:04</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

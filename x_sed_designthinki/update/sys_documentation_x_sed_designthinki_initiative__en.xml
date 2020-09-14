@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Initiative" language="en" table="x_sed_designthinki_initiative">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Initiative</label>
+            <language>en</language>
+            <name>x_sed_designthinki_initiative</name>
+            <plural>Initiatives</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-13 18:16:07</sys_created_on>
+            <sys_id>a0b3f5a0db175010c7f5aa82ca961950</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Initiative</sys_name>
+            <sys_package display_value="DesignThinking" source="x_sed_designthinki">3ed1b5d4dbdb1010c7f5aa82ca9619cc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DesignThinking">3ed1b5d4dbdb1010c7f5aa82ca9619cc</sys_scope>
+            <sys_update_name>sys_documentation_x_sed_designthinki_initiative__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-13 18:16:07</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

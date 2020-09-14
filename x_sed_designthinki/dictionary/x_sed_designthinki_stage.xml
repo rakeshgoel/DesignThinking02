@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="x_sed_designthinki_element" label="Stage" max_length="40" name="x_sed_designthinki_stage" sizeclass="0" type="collection">
+        <element label="Initiative" mandatory="true" max_length="32" name="initiative" reference="x_sed_designthinki_initiative" type="reference"/>
+        <element choice="3" label="Stage type" mandatory="true" max_length="60" name="stage_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Observation" sequence="10" value="1"/>
+                <element inactive_on_update="false" label="Analysis" sequence="20" value="2"/>
+                <element inactive_on_update="false" label="Synthesis" sequence="30" value="3"/>
+                <element inactive_on_update="false" label="Realization" sequence="40" value="4"/>
+            </choice>
+        </element>
+    </element>
+</database>

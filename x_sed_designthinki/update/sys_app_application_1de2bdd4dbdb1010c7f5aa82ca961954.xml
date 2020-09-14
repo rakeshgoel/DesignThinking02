@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Develop products and solutions using design thinking</description>
+        <device_type>browser</device_type>
+        <hint>Develop products and solutions using design thinking</hint>
+        <name/>
+        <order/>
+        <roles>x_sed_designthinki.designthinking_admin,x_sed_designthinki.designthinking_user,x_sed_designthinki.designthinking_manager</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-12 23:34:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1de2bdd4dbdb1010c7f5aa82ca961954</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DesignThinking</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DesignThinking" source="x_sed_designthinki">3ed1b5d4dbdb1010c7f5aa82ca9619cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DesignThinking">3ed1b5d4dbdb1010c7f5aa82ca9619cc</sys_scope>
+        <sys_update_name>sys_app_application_1de2bdd4dbdb1010c7f5aa82ca961954</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-12 23:34:09</sys_updated_on>
+        <title>DesignThinking</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

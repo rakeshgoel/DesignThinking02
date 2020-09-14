@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-12 23:36:40</sys_created_on>
+        <sys_id>1673f55cdbdb1010c7f5aa82ca961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.sed.workspace.designthinking.designthinking</sys_name>
+        <sys_package display_value="DesignThinking" source="x_sed_designthinki">3ed1b5d4dbdb1010c7f5aa82ca9619cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DesignThinking">3ed1b5d4dbdb1010c7f5aa82ca9619cc</sys_scope>
+        <sys_security_acl display_value="x.sed.workspace.designthinking">8273f55cdbdb1010c7f5aa82ca96194b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_1673f55cdbdb1010c7f5aa82ca961952</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-12 23:36:40</sys_updated_on>
+        <sys_user_role display_value="designthinking" name="designthinking">5e73f55cdbdb1010c7f5aa82ca96194e</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
